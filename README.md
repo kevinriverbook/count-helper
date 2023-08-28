@@ -2,7 +2,7 @@
 ![counthelper](https://github.com/kevinriverbook/count-helper/assets/92033434/90f523ff-5b83-4b11-a4ad-1b28f55e6214)
 
 ## 概要
-『CountHelper』は、文章を入力すると文字数を数えてくれるWebアプリです。
+『CountHelper』は、文章を入力すると文字数を数えてくれるウェブアプリです。
 ### URL
 https://count-helper.vercel.app/
 ## なぜ作ったのか？
